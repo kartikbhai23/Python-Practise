@@ -19,3 +19,9 @@ def is_prime(n):
         if n % i == 0:
             return False
     return True
+result = is_prime(input_number)
+if result:
+    print(f"{input_number} is a prime number.")
+else:
+    print(f"{input_number} is not a prime number.")
+
