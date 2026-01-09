@@ -28,3 +28,5 @@ weight = 72.0
 height = 1.75
 bmi = weight / (height ** 2)
 print(f"Your calculated BMI is: {bmi:.2f}")
+
+# note: verified calculations are correct
