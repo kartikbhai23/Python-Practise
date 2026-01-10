@@ -25,3 +25,5 @@ if result:
 else:
     print(f"{input_number} is not a prime number.")
 
+
+
