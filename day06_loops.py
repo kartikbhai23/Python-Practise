@@ -47,3 +47,5 @@ for num in range(2, 31):
     if is_prime:
         print(num, end=" ")
 print()
+
+# prime checker works for limit of 30
