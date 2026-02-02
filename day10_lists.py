@@ -46,3 +46,5 @@ def find_second_largest(numbers_list):
 
 test_list = [20, 45, 10, 45, 33, 8]
 print(f"Second largest: {find_second_largest(test_list)}")
+
+# list methods are very handy
