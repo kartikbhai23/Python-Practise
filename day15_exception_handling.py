@@ -41,3 +41,5 @@ def safe_float_convert(val_str):
 print("Float converts:", safe_float_convert("3.14"))
 print("Float conversion fail test:", safe_float_convert("abc"))
 print("Float None check:", safe_float_convert(None))
+
+# tested division and format conversions
