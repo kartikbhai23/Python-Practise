@@ -61,3 +61,5 @@ class Manager(Employee):
 
 mgr = Manager("Alice", 95000, "Engineering")
 print(mgr.display_info())
+
+# checked employee inheritance hierarchy
