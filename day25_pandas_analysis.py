@@ -34,3 +34,5 @@ print("\nOranges list:\n", oranges)
 # challenge: sort values and reset index index
 sorted_df = df.sort_values(by="Sales", ascending=False).reset_index(drop=True)
 print("\nSorted by Sales:\n", sorted_df)
+
+# sorted results by store total sales
