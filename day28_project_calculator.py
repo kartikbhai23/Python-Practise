@@ -61,3 +61,5 @@ def run_calculator(mock_inputs=None):
 if __name__ == "__main__":
     # mock inputs for test verification run
     run_calculator(mock_inputs=['1', '10', '20', '5'])
+
+# added division check and validation loop
