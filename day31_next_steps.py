@@ -12,3 +12,5 @@ aiml_libraries = ["scikit-learn", "torch", "seaborn", "mlflow"]
 print("My AI/ML learning roadmap:")
 for lib in aiml_libraries:
     print(f"- Study {lib} for model development")
+
+# planning to study PyTorch and model evaluation next week
